@@ -1,0 +1,49 @@
+*{
+margin:0px;
+padding: 0px;
+
+}
+body{
+	background-color:darkcyan;
+}
+.first{
+	margin:100px auto;
+	width:1000px;
+	justify-content: center;
+	align-content: center;
+}
+.second{
+	display:flex;
+	width: 100%;
+}
+.second-jnr{
+	padding:100px 140px 100px 100px;
+	background-color:hsl(31, 77%, 52%);
+	margin-right: 10px;
+}
+.third{
+	padding: 100px;
+	background-color:orange;
+	margin-left:0px;
+}
+.emergency{
+	display: flex;
+}
+.fourth{
+	margin: 10px 10px 40px 0px;
+	background-color: green;
+	padding: 100px 100px 20px 100px;}
+	
+
+.fifth{
+	margin-top:0px;
+	padding:0px 100px 40px 0px;
+	margin-right:0px;
+}
+.sixth{
+	margin-top:10px;
+	background-color: skyblue;
+	padding:40px 140px 40px 100px;
+	
+
+}
